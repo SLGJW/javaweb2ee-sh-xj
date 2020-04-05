@@ -1,44 +1,44 @@
 # JavaWeb2EE_Init
 
-学号：0000000         2020年04月04日
+ѧ�ţ�1718064005         2020��04��04��
  
- JavaWeb2EE编程实践项目共涉及8个项目，每个项目在此目录下建立独立的文件夹（文件夹名按如下规范要求），每个文件夹下创建readme文件，说明项目的情况。
-注意：1）可能每个项目下会分多个不同的实践任务，根据需要建立独立的文件夹。
-     2）在你的readme文件中写上你的学号，尽可能在各个地方标识你的学号，特别是程序中涉及到信息输出的地方。
+ JavaWeb2EE���ʵ����Ŀ���漰8����Ŀ��ÿ����Ŀ�ڴ�Ŀ¼�½����������ļ��У��ļ����������¹淶Ҫ�󣩣�ÿ���ļ����´���readme�ļ���˵����Ŀ�������
+ע�⣺1������ÿ����Ŀ�»�ֶ����ͬ��ʵ�����񣬸�����Ҫ�����������ļ��С�
+     2�������readme�ļ���д�����ѧ�ţ��������ڸ����ط���ʶ���ѧ�ţ��ر��ǳ������漰����Ϣ����ĵط���
 
-## 项目1： 基于Servlet的学生信息获取与显示
+## ��Ŀ1�� ����Servlet��ѧ����Ϣ��ȡ����ʾ
 
-文件夹名：SCT_01Servlet
+�ļ�������SCT_01Servlet
 
-## 项目2： 基于Servlet的管理员登录与注销
+## ��Ŀ2�� ����Servlet�Ĺ���Ա��¼��ע��
 
-文件夹名：SCT_02Servlet4Login
-
-
-## 项目3：基于过滤器的登录访问控制实现
-
-文件夹名：SCT_03Filters4Login
+�ļ�������SCT_02Servlet4Login
 
 
-## 项目4：基于JSP的动态信息显示
-文件夹名：SCT_04JSPServlet
+## ��Ŀ3�����ڹ������ĵ�¼���ʿ���ʵ��
+
+�ļ�������SCT_03Filters4Login
 
 
-## 项目5：JDBC进行学生信息的CRUD
-
-文件夹名：SCT_05JDBC
-
-
-## 项目6：JSP中基于JavaBean的学生信息封装
-
-文件夹名：SCT_06JSPJavaBean
+## ��Ŀ4������JSP�Ķ�̬��Ϣ��ʾ
+�ļ�������SCT_04JSPServlet
 
 
-## 项目7：基于DAO模式的学生信息CRUD
+## ��Ŀ5��JDBC����ѧ����Ϣ��CRUD
 
-文件夹名：SCT_07DAO
+�ļ�������SCT_05JDBC
 
 
-## 项目8：基于MVC的学生信息管理系统
+## ��Ŀ6��JSP�л���JavaBean��ѧ����Ϣ��װ
 
-文件夹名：SCT_08JavaWebMVC
+�ļ�������SCT_06JSPJavaBean
+
+
+## ��Ŀ7������DAOģʽ��ѧ����ϢCRUD
+
+�ļ�������SCT_07DAO
+
+
+## ��Ŀ8������MVC��ѧ����Ϣ����ϵͳ
+
+�ļ�������SCT_08JavaWebMVC
